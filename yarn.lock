@@ -3842,7 +3842,7 @@ __metadata:
     release-it: 14.2.0
     semver: 7.3.2
     sequelize: 6.3.5
-    supertest: 5.0.0
+    supertest: 6.0.0
     supervisor: 0.12.0
     uuid: 8.3.1
     winston: 2.4.5
@@ -7689,13 +7689,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"supertest@npm:5.0.0":
-  version: 5.0.0
-  resolution: "supertest@npm:5.0.0::__archiveUrl=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupertest%2Fdownload%2Fsupertest-5.0.0.tgz"
+"supertest@npm:6.0.0":
+  version: 6.0.0
+  resolution: "supertest@npm:6.0.0::__archiveUrl=https%3A%2F%2Fregistry.npm.taobao.org%2Fsupertest%2Fdownload%2Fsupertest-6.0.0.tgz"
   dependencies:
     methods: 1.1.2
     superagent: 6.1.0
-  checksum: b4863c4627d47792048889ab35b36380c6e5026b5f64a29efe7546f69cf04040aee8da9615fc6c46a8813ac481abccdc509b140ea37f8ebfc00efc0508743dce
+  checksum: 9fda097854777394a35bd7f339bc5e0557921170d277cbb1bf05660731f7f3d5c5a4f65b3ede5c6dd1a3ca7491cecebd5f872bc5013ed7dc13b59cb5c2c635ca
   languageName: node
   linkType: hard
 
